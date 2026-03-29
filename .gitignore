@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Database (keep your data local)
+*.db
+
+# OS specific
+.DS_Store
